@@ -1,0 +1,100 @@
+[
+{
+"date": "2026-09-04",
+"type": "Reading",
+"text": "Heart rate of 54 recorded on arrival (other readings that day 79). Possible typo.",
+"type_es": "Lectura",
+"text_es": "Frecuencia cardiaca de 54 al recibir el turno (las demás lecturas del día: 79). Posible error de captura."
+},
+{
+"date": "2026-09-21",
+"type": "Care",
+"text": "Arm abscess drained and dressed.",
+"type_es": "Atención",
+"text_es": "Se drena y se cura un absceso en el brazo."
+},
+{
+"date": "2026-09-22",
+"type": "Reading",
+"text": "Blood pressure 110/70 (the only BP reading in the chat).",
+"type_es": "Lectura",
+"text_es": "Presión arterial 110/70 (única lectura de presión en el chat)."
+},
+{
+"date": "2026-09-28",
+"type": "Illness",
+"text": "Throat inflammation reported in the morning; pharyngitis during the day.",
+"type_es": "Enfermedad",
+"text_es": "Molestia por inflamación de garganta en la mañana; faringitis durante el día."
+},
+{
+"date": "2026-09-29",
+"type": "Illness",
+"text": "Sore throat and joint pain, cough with phlegm. No physiotherapy. BPAP declined that night.",
+"type_es": "Enfermedad",
+"text_es": "Dolor de garganta y de articulaciones, tos con flemas. Sin fisioterapia. No usó BiPAP esa noche."
+},
+{
+"date": "2026-09-30",
+"type": "Care",
+"text": "Antibiotic course started (amoxicillin/clavulanate).",
+"type_es": "Atención",
+"text_es": "Inicia tratamiento con antibiótico (amoxicilina/ácido clavulánico)."
+},
+{
+"date": "2026-10-01",
+"type": "Illness",
+"text": "Throat discomfort continues, cough easing.",
+"type_es": "Enfermedad",
+"text_es": "Continúa la molestia en la garganta; la tos disminuye."
+},
+{
+"date": "2026-10-06",
+"type": "Care",
+"text": "Last antibiotic dose given.",
+"type_es": "Atención",
+"text_es": "Última dosis de antibiótico."
+},
+{
+"date": "2026-10-12",
+"type": "Data",
+"text": "Arrival vitals identical to 10/11 (SpO2 95%, HR 103); possibly copied.",
+"type_es": "Datos",
+"text_es": "Signos de llegada idénticos a los del 11 de oct (SpO₂ 95%, FC 103); posiblemente copiados."
+},
+{
+"date": "2026-10-20",
+"type": "Care",
+"text": "Chest X-rays requested.",
+"type_es": "Atención",
+"text_es": "Se solicitan placas de tórax."
+},
+{
+"date": "2026-10-23",
+"type": "Care",
+"text": "Radiologist visit.",
+"type_es": "Atención",
+"text_es": "Visita del radiólogo."
+},
+{
+"date": "2026-10-26",
+"type": "Reading",
+"text": "Capillary glucose 107 mg/dL.",
+"type_es": "Lectura",
+"text_es": "Glucosa capilar 107 mg/dL."
+},
+{
+"date": "2026-10-27",
+"type": "Care",
+"text": "Physiotherapist increased leg-weight load and took the X-ray results.",
+"type_es": "Atención",
+"text_es": "El fisioterapeuta aumentó el peso de las polainas y se llevó los resultados de las placas."
+},
+{
+"date": "2026-10-30",
+"type": "Night",
+"text": "BPAP declined overnight; slept on nasal cannula at 1.0 L/min, SpO2 93%.",
+"type_es": "Noche",
+"text_es": "No usó BiPAP en la noche; durmió con puntas nasales a 1.0 L/min, SpO₂ 93%."
+}
+]
